@@ -1,0 +1,10 @@
+C:\Users\lengu\Desktop\bt1\LeNguyenThaiKhang_5951071043\LeNguyenThaiKhang_5951071043\bin\Debug\LeNguyenThaiKhang_5951071043.exe.config
+C:\Users\lengu\Desktop\bt1\LeNguyenThaiKhang_5951071043\LeNguyenThaiKhang_5951071043\bin\Debug\LeNguyenThaiKhang_5951071043.exe
+C:\Users\lengu\Desktop\bt1\LeNguyenThaiKhang_5951071043\LeNguyenThaiKhang_5951071043\bin\Debug\LeNguyenThaiKhang_5951071043.pdb
+C:\Users\lengu\Desktop\bt1\LeNguyenThaiKhang_5951071043\LeNguyenThaiKhang_5951071043\obj\Debug\LeNguyenThaiKhang_5951071043.csprojAssemblyReference.cache
+C:\Users\lengu\Desktop\bt1\LeNguyenThaiKhang_5951071043\LeNguyenThaiKhang_5951071043\obj\Debug\LeNguyenThaiKhang_5951071043.Form1.resources
+C:\Users\lengu\Desktop\bt1\LeNguyenThaiKhang_5951071043\LeNguyenThaiKhang_5951071043\obj\Debug\LeNguyenThaiKhang_5951071043.Properties.Resources.resources
+C:\Users\lengu\Desktop\bt1\LeNguyenThaiKhang_5951071043\LeNguyenThaiKhang_5951071043\obj\Debug\LeNguyenThaiKhang_5951071043.csproj.GenerateResource.cache
+C:\Users\lengu\Desktop\bt1\LeNguyenThaiKhang_5951071043\LeNguyenThaiKhang_5951071043\obj\Debug\LeNguyenThaiKhang_5951071043.csproj.CoreCompileInputs.cache
+C:\Users\lengu\Desktop\bt1\LeNguyenThaiKhang_5951071043\LeNguyenThaiKhang_5951071043\obj\Debug\LeNguyenThaiKhang_5951071043.exe
+C:\Users\lengu\Desktop\bt1\LeNguyenThaiKhang_5951071043\LeNguyenThaiKhang_5951071043\obj\Debug\LeNguyenThaiKhang_5951071043.pdb
